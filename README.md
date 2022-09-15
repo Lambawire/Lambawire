@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lambawire
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...pi,btc, core ,etheruim
+- 🌱 I’m currently learning . etheruim,core .
 - 💞️ I’m looking to collabor
-ate on ...
-- 📫 How to reach me ...
+ate on . etheruim Btc ..
+- 📫 How to reach me ... obadiahfelix442@gmail.com no
 
 <!---
 Lambawire/Lambawire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
